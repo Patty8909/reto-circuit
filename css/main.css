@@ -1,0 +1,21 @@
+body {
+    background-color: #F9D1AE;
+}
+.header {
+    margin: 4%;
+}
+.lista {
+    list-style: none;
+    line-height: 30px;
+}
+.lista li {
+    cursor: pointer;
+}
+.equipoGestor li {
+    cursor: pointer;
+    list-style: none;
+    font-weight: bolder;
+}
+.nav a {
+    color: black;
+}
